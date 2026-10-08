@@ -1,0 +1,10 @@
+[
+  {"inn":"7721581040","name":"Дейта Кью","domains":["dadata.ru"],"source":"https://dadata.ru/about/"},
+  {"inn":"7740000076","name":"МТС","domains":["mts.ru"],"source":"https://khimki.mts.ru/about/investoram-i-akcioneram/drugoe/rekviziti"},
+  {"inn":"7812014560","name":"МегаФон","domains":["megafon.ru"],"source":"https://vats.megafon.ru/megafon_privacy_policy"},
+  {"inn":"7708004767","name":"ЛУКОЙЛ","domains":["lukoil.ru","lukoil.com"],"source":"https://lukoil.ru/Company/LegalInformation/PersonalDataProcessingPolicy"},
+  {"inn":"7736207543","name":"Яндекс","domains":["yandex.ru","ya.ru"],"source":"https://yandex.ru/legal/general_offer/ru/"},
+  {"inn":"7707083893","name":"Сбербанк","domains":["sberbank.ru","sberbank.com","sber.ru"],"source":"https://developers.sber.ru/docs/ru/policies/privacy-policy"},
+  {"inn":"4826041657","name":"ООО СБЕР, Липецк","forbidden_domains":["sberbank.ru","sberbank.com","sber.ru"],"source":"https://spark-interfax.ru/lipetskaya-oblast-lipetsk/ooo-sber-inn-4826041657-ogrn-1044800159084-7fb03922817d4783a6e85826064efa97"},
+  {"inn":"7721670075","name":"Сбер-Фин","forbidden_domains":["sberbank.ru","sberbank.com","tbank.ru"],"source":"https://companies.rbc.ru/id/1097746496594-zao-sber-fin/"}
+]
